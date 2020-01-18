@@ -1,0 +1,16 @@
+PODS:
+  - ActivityLogger (0.1.0)
+
+DEPENDENCIES:
+  - ActivityLogger (from `../`)
+
+EXTERNAL SOURCES:
+  ActivityLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ActivityLogger: 797c34d33eb02bba553d6621f932b4e4621bc314
+
+PODFILE CHECKSUM: 71c774fa88cc4806c710a39d65a84e69356a2579
+
+COCOAPODS: 1.8.4

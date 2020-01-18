@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ActivityLogger_Example' do
+  pod 'ActivityLogger', :path => '../'
+
+  target 'ActivityLogger_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
